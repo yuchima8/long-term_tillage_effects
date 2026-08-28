@@ -1,1 +1,5 @@
-The folder includes the output files from codes in code_linear_1999_2023/. The only missing data is 3_1_corn_low_till_duration_weather_binning_edd69/ and 3_2_soy_low_till_duration_weather_binning_edd69/, since it includes the field fixed-effect file (>7 Gb). Please rerun code_linear_1999_2023/3_1_ols_corn_low_till_duration_edd69_binned.R and code_linear_1999_2023/3_2_ols_soy_low_till_duration_edd69_binned.R to generate the outputs. 
+The folder includes the output files from codes in code_linear_1999_2023. 
+
+The only missing data are 3_1_corn_low_till_duration_weather_binning_edd69/ and 3_2_soy_low_till_duration_weather_binning_edd69/, since it includes the field fixed-effect file (>7 Gb). 
+
+Please run code_linear_1999_2023/3_1_ols_corn_low_till_duration_edd69_binned.R and code_linear_1999_2023/3_2_ols_soy_low_till_duration_edd69_binned.R to generate the outputs. 
