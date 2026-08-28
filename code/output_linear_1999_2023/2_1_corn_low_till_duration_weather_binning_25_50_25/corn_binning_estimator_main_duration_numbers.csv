@@ -1,0 +1,6 @@
+"Weather variable","Largest effect bin","Duration effect per year (%)","95% CI low (%)","95% CI high (%)","p-value","Significance"
+"EDD, Jun-Sep","High",0.296,0.237,0.356,2.72e-22,"***"
+"GDD, Apr-May","Low",0.257,0.17,0.345,7.87e-09,"***"
+"GDD, Jun-Sep","Low",0.301,0.203,0.399,1.54e-09,"***"
+"PPT, Apr-May","Low",0.216,0.152,0.281,5.92e-11,"***"
+"PPT, Jun-Sep","Low",0.315,0.257,0.373,7.66e-27,"***"

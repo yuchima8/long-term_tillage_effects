@@ -1,0 +1,4 @@
+sample,observations,fields,counties,years,low_till_observations,mean_low_till_duration
+full_cleaned_panel,49734268,4287518,798,25,,
+clean_controls_and_continuous_low_till_with_weather,26014018,3741900,794,25,11697356,7.7467947457528
+estimation_sample,23391541,3381656,794,25,10753030,7.86079170243178
