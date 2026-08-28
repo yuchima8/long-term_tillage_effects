@@ -1,0 +1,4 @@
+sample,observations,fields,counties,years
+full_cleaned_panel,44670136,3891678,798,25
+clean_control_or_continuous_low_till,44670136,3891678,798,25
+estimation_sample_after_weather_join,44667232,3891224,796,25
