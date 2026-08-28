@@ -1,0 +1,20 @@
+OLS estimation, Dep. Var.: log_y
+Observations: 44,456,757
+Weights: size
+Fixed-effects: OBJECTID: 3,680,749,  year: 25
+Standard-errors: Clustered (FIPS) 
+                          Estimate Std. Error   t value   Pr(>|t|)    
+till_duration_bin::1_4    0.002491 0.00111003   2.24453 2.5077e-02 *  
+till_duration_bin::5_9    0.010356 0.00190565   5.43462 7.3386e-08 ***
+till_duration_bin::10_14  0.018145 0.00268656   6.75388 2.8065e-11 ***
+till_duration_bin::15_19  0.023124 0.00347275   6.65883 5.1943e-11 ***
+till_duration_bin::20+    0.032685 0.00442312   7.38961 3.7826e-13 ***
+GDD_4_5                   0.000375 0.00003359  11.16786  < 2.2e-16 ***
+PPT_4_5                  -0.000193 0.00001204 -16.01126  < 2.2e-16 ***
+GDD_6_9                   0.000100 0.00003148   3.18047 1.5283e-03 ** 
+PPT_6_9                  -0.000052 0.00000950  -5.43550 7.3039e-08 ***
+EDD_6_9                  -0.009277 0.00020595 -45.04269  < 2.2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+RMSE: 1.48031     Adj. R2: 0.70832 
+                Within R2: 0.189032
